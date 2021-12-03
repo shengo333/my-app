@@ -79,8 +79,8 @@
 }
 
 .card {
-  margin: 1rem;
-  padding: 1.5rem;
+  margin: 0.8rem;
+  padding: 0.8rem;
   text-align: left;
   color: inherit;
   text-decoration: none;
@@ -99,18 +99,19 @@
 
 .card h2 {
   margin: 0 0 1rem 0;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .card p {
   margin: 0;
-  font-size: 1.25rem;
-  line-height: 1.5;
+  font-size: 1rem;
+  line-height: 1rem;
 }
 
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+  margin-bottom: 2.5rem;
 }
 
 @media (max-width: 600px) {
